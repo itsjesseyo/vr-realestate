@@ -46,3 +46,8 @@
 .wrapper {
   padding-top: 80px;
 }
+
+.psv-container.psv--has-navbar {
+  background-color: black;
+  background: none;
+}
